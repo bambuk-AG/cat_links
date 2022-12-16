@@ -1,5 +1,4 @@
 # cat_links
-give me 100 links to cat pictures
 
 1. https://www.pexels.com/search/cats/
 2. https://www.istockphoto.com/photos/cat
